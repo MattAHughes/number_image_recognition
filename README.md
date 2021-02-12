@@ -5,10 +5,10 @@ The model architecture was constructed as an attempt implementing Ahlawat et al.
 
 The architecture uses mainly convolutional and max pooling layers with optional dropout.
 
-![architecture][mnist_model.png]
+![architecture](mnist_model.png)
 
 The model shows high accuracy and low loss after a low number of epochs.
 
-![accuracy][model_accuracy.png]
+![accuracy](model_accuracy.png)
 
-![loss][model_loss.png]
+![loss](model_loss.png)
