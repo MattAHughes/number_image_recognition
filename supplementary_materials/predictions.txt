@@ -1,0 +1,12 @@
+This image is likely a: 
+2 : 22.32
+9 : 16.06
+4 : 12.15
+The image given as input is: noisy_3.jpg
+
+This image is likely a: 
+1 : 65.27
+8 : 9.23
+7 : 7.87
+The image given as input is: clean_7.png
+
